@@ -6,13 +6,13 @@
 - 🔭 &nbsp; I’m currently learning web Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; Android developer and front-end web developer.
+- 💼 &nbsp; Competitive Programmer and front-end web developer.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Dart | Java | C++  
-- 🌐 &nbsp; Android  | HTML | CSS | JavaScript | Bootstrap 
-- 🔧 &nbsp; Android Studio  | Visual Studio code | Eclipse | Git
+- 💻 &nbsp; Python  | Java | C++  
+- 🌐 &nbsp; React  | HTML | CSS | JavaScript | Bootstrap 
+- 🔧 &nbsp;  Visual Studio code |  Git
 - 🖥 &nbsp; Photoshop 
 
 <br>
