@@ -3,16 +3,17 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning web Development
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; Competitive Programmer and front-end web developer.
+- 🔭 &nbsp; I’m a Software Engineer (SE2) at [Toddle](https://www.toddleapp.com/)  
+- 🤔 &nbsp; Exploring new technologies and sharing updates on my page  
+- 🎓 &nbsp; Studied Computer Science, Programming, and Mathematics  
+- 💼 &nbsp; Competitive Programmer and Full-Stack Web Developer  
+
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python  | Java | C++  
-- 🌐 &nbsp; React  | HTML | CSS | JavaScript | Bootstrap 
-- 🔧 &nbsp;  Visual Studio code |  Git
+- 💻 &nbsp; Python  | Java | C++  | C
+- 🌐 &nbsp; React | NodeJS | Django| HTML | CSS | JavaScript | Bootstrap | Material UI | MySQL 
+- 🔧 &nbsp;  Visual Studio code |  Git | Intellij
 - 🖥 &nbsp; Photoshop 
 
 <br>
