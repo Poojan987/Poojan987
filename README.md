@@ -1,8 +1,9 @@
-## Hey there! I'm Poojan Gandhi. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30">
+## Hey there!👋 I'm Poojan Gandhi.
 
 
-<img align="right" style="margin-bottom:8px;" alt="GIF" src="https://media1.tenor.com/images/9fb771fb621c29b0a2eae945b5ceeeb3/tenor.gif" width="350"/>  
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=1000&lines=Focused+Software+Engineer+%7C+React+•+Javascript+•+GraphQL&repeat=false&font=Fira+Code" alt="Typing Animation">
+</p>
 
 <p align="center" style="margin-top:20px;">
   <a href="mailto:poojanngandhi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
@@ -22,13 +23,6 @@ Built a tech community with 85,000 followers and taught 135 students as TA.
 ---
 
 ### 🛠️ Tech Stack
-
-JavaScript | Python | Java | C  
-ReactJS | Next.js | React Native | Django | HTML | CSS  
-Node.js | GraphQL | REST API  
-MySQL | PostgreSQL  
-VS Code | Git | IntelliJ | Jenkins | Postman | OBS | Photoshop
-
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
