@@ -11,7 +11,6 @@
 
 💼   Experience across Toddle (SDE2), Salt (YC W22), PedalsUp — impactful UI redesigns, live deployments, and scalable architecture
 
-📫   Reach out: poojanngandhi@gmail.com | +91-9510923972
 
 <h3> 🏅 Achievements </h3>
 ICPC Regionalist (2x), code profile highlights:
