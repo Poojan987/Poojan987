@@ -1,4 +1,4 @@
-## Hey there!👋 I'm Poojan Gandhi.
+<h1 align="center">Hi 👋, I'm Poojan Gandhi</h1>
 
 
 <p align="center">
